@@ -1,4 +1,6 @@
 import { createRoot } from 'react-dom/client';
+
+import "./bootstrap.grid.min.css";
 import './index.css';
 import { Application } from './App';
 
