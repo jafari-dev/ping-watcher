@@ -1,0 +1,8 @@
+header {
+  padding-block: 16px;
+}
+
+header > h1 {
+  color: #ffffff;
+  text-align: right;
+}

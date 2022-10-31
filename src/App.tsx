@@ -1,7 +1,9 @@
+import { Header } from "./components";
+
 export function Application() {
   return (
-    <div>
-      <h1>دیده‌بان پینگ گیمینگ ایرانیان</h1>
+    <div className="container">
+      <Header />
     </div>
   );
 }
