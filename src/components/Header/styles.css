@@ -1,8 +1,12 @@
 header {
-  padding-block: 16px;
+  padding: 16px;
+  border-radius: 32px;
+  font-family: Vazirmatn, sans-serif;
+  background-color: #00000080;
+  margin-bottom: 16px;
 }
 
 header > h1 {
+  text-align: center;
   color: #ffffff;
-  text-align: right;
 }
