@@ -4,9 +4,19 @@ header {
   font-family: Vazirmatn, sans-serif;
   background-color: #00000080;
   margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+
+header > svg {
+  width: 64px;
+  height: 64px;
 }
 
 header > h1 {
-  text-align: center;
   color: #ffffff;
 }

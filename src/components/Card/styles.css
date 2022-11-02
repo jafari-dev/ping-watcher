@@ -66,6 +66,10 @@ article {
 
 .sub-pings > div > img {
   margin-inline: auto;
+  height: 100%;
+  padding: 4px;
+  padding-bottom: 16px;
+  background-color: #ffffff;
   border-radius: 8px;
 }
 
